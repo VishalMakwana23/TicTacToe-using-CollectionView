@@ -14,11 +14,11 @@
 
  #### Output
  
-![](output/1.png)
+![](TicTacToe/Output/1.png)
 
-![](output/2.png)
+![](TicTacToe/Output/2.png)
 
-![](output/3.png)
+![](TicTacToe/Output/3.png)
 
-![](output/4.png)
+![](TicTacToe/Output/4.png)
 
